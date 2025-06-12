@@ -61,7 +61,3 @@ Focused on clean layouts and mobile-first design
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashish-nepal&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-nepal&layout=compact&theme=radical" />
-</p>
