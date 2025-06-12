@@ -31,6 +31,7 @@ My journey has taken me through diverse projects—from **online learning platfo
 ### 🔙 Backend & APIs  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![REST](https://img.shields.io/badge/REST%20API-005571?style=flat)
+![Next.js API](https://img.shields.io/badge/Next.js%20API-000000?style=flat&logo=next.js&logoColor=white)
 
 ### 🎨 UI/UX Design  
 Focused on clean layouts and mobile-first design
