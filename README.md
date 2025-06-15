@@ -56,7 +56,7 @@ Focused on clean layouts and mobile-first design
 
 ## 📫 Let’s Connect
 
-🌐 **Portfolio**: [aashishnepal.vercel.app](https://aashishnepal.vercel.app/)  
+🌐 **Portfolio**: [aashishnepal.com.np](https://www.aashish-nepal.com.np/)  
 💼 **LinkedIn**: [linkedin.com/in/aashish-nepal-56247727b](https://www.linkedin.com/in/aashish-nepal-56247727b/)  
 🐱 **GitHub**: You’re here already!
 
